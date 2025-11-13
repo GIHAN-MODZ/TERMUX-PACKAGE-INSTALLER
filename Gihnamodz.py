@@ -20,7 +20,7 @@ $$$$$$$/  $$/   $$/ $$$$$$$$/  $$$$$$/  $$/   $$/        $$$$$$/  $$/   $$/ $$/ 
                                                                                                                        
                                                                                                                                                                                                                                                                                                               
                                                                                                                                                                                                                               
-CREATED BY BLACK SHADOW MODz
+CREATED BY SL× BLACK SHADOW MODz
 ''')
 def slowprint(s):
     for c in s + '\n' :
@@ -32,7 +32,7 @@ print (''' \033[95m
 +--------------------------------------+
 | This Tool Install All Basic Packages |
 +--------------------------------------+
-| Coded By Gihan Modz|version : 2.3  |
+| Coded By Black Shadow Modz!|version : 2.3  |
 +--------------------------------------+''')
 
 slowprint(''' \033[93m
@@ -92,7 +92,7 @@ os.system ("apt install git -y")
 os.system ("apt install perl -y")
 os.system ("apt install bash")
 
-print ("wait for second and start hacking")
+print ("wait for second and start Your System Updated! ")
 
 os.system ("apt install nano -y")
 os.system ("apt install curl -y")
@@ -104,7 +104,7 @@ os.system ("apt install nmap -y")
 os.system ("apt install w3m -y")
 os.system ("apt install hydra -y")
 print ("""
-Update by Dark Gihan Modz""")
+Update by Black Shadow Modz""")
 
 os.system ("apt install ruby -y")
 os.system ("apt install macchanger -y")
